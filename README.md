@@ -23,5 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### [PIrigation](https://github.com/equineranch/pirigation) Twitch panel shows
-status of PIrigation sprinkler.
+### [PIrigation](https://github.com/equineranch/pirigation) Twitch panel 
+shows status of PIrigation sprinkler.
